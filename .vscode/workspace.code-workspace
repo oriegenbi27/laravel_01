@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Windows\\System32\\my-app"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
